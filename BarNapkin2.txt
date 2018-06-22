@@ -1,0 +1,5 @@
+C2 server
+Multiple connections -> multithreaded server (may use asyncio)
+Request actions of client
+Basic reporting of clients
+Make clients aware of other clients
